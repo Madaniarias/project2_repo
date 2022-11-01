@@ -27,4 +27,7 @@ print(f"{out} matches")
 ## TEST
 ![Screen Shot 2022-11-01 at 11 51 33](https://user-images.githubusercontent.com/111761417/199148204-e9d890d6-701e-4acd-9ef8-3cdfb7741636.png)
 
-## BOOLEAN DIAGRAM
+## TRUTH TABLE
+![Untitled Notebook (26)-2](https://user-images.githubusercontent.com/111761417/199280509-cfc4ad1f-1acf-41d3-8f01-9aa88492fc4e.jpg)
+
+
