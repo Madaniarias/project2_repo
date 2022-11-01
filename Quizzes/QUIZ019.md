@@ -30,4 +30,6 @@ print(case3)
 ## TEST
 ![Screen Shot 2022-11-01 at 23 46 19](https://user-images.githubusercontent.com/111761417/199261743-3d095010-f462-45dd-a9e8-cfd4179cfed3.png)
 
-## FLOW DIAGRAM
+## BOOLEAN CIRCUIT
+![Untitled Notebook (26)-1](https://user-images.githubusercontent.com/111761417/199280225-3e70fc81-5be3-463e-bb73-a52596c9e1c7.jpg)
+
