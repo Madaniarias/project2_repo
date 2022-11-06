@@ -1,0 +1,7 @@
+# QUIZ 021
+
+## CODE
+
+## TEST
+
+## TRUTH TABLE AND CIRCUIT
