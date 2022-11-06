@@ -27,4 +27,6 @@ print(table)
 ## TEST
 ![Screen Shot 2022-11-01 at 11 09 36](https://user-images.githubusercontent.com/111761417/199143318-281a831d-bd73-45fa-b405-11c00f7d6ac1.png)
 
-## BOOLEAN DIAGRAM
+## TRUTH TABLE AND CIRCUIT
+![image](https://user-images.githubusercontent.com/111761417/200166581-2db31f39-fe8a-482f-92bb-34c7f8971760.png)
+
