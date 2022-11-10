@@ -47,3 +47,9 @@ if __name__ == '__main__':
             board.digital[12].write(int(c))
             time.sleep(1)
 ```
+
+# TEST
+
+Video_binary_counter_(nov.8)
+  
+  
