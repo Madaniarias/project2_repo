@@ -1,7 +1,7 @@
 # QUIZ 021
 
 ## CODE
-
+```.py
 #Create a program that produces n random values from the equation below, where m and s are the oter inputs of the function.
 import random
 
@@ -22,7 +22,7 @@ def produce (n:int, m:int, s:int):
 
 sample = produce(n=5, m=3, s=2)
 print(sample)
-
+```
 ## TEST
 ![Screen Shot 2022-11-11 at 0 58 21](https://user-images.githubusercontent.com/111761417/201143966-ea7a5da9-b69c-4608-84b6-ace3252b496b.png)
 
