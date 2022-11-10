@@ -16,6 +16,7 @@ The materials used for the activity were:
 # BUILDING THE HARDWARE 
 
 ![image](https://user-images.githubusercontent.com/111761417/201153192-b2dddf98-c706-4c41-9833-6200f271aa3d.png)
+
 <sub> Fig 1. Hardware for the binary counter. 
   
 # CODE
