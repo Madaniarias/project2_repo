@@ -68,6 +68,6 @@ if __name__ == '__main__':
 
 # TEST
 
-[Video_binary_counter_(nov.8)
-](https://github.com/Madaniarias/unit2_repo/blob/main/Lessons/VIDEO%20binary%20counter%20nov.8.mp4)  
+Video_binary_counter_(nov.11)
+
   
