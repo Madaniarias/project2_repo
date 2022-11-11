@@ -1,4 +1,4 @@
-# System Diagram Binary Counter (Nov. 11)
+# System Diagram Binary Counter (Nov. 10)
 
 ![Screen Shot 2022-11-11 at 1 28 47](https://user-images.githubusercontent.com/111761417/201152092-4c8e53ac-fe91-420e-a81f-4f9dc6ba4a59.png)
 
