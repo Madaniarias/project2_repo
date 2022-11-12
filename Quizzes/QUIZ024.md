@@ -23,5 +23,7 @@ plt.ylabel("2(x+5)**2")
 plt.show()
 ```
 # TEST
-![Uploading Screen Shot 2022-11-12 at 14.23.39.png…]()
+![Screen Shot 2022-11-12 at 14 23 39](https://user-images.githubusercontent.com/111761417/201458752-4ad8f8f8-72dc-4ba0-88df-1ed080a984cc.png)
+
 # CIRCUIT
+![image](https://user-images.githubusercontent.com/111761417/201459493-ed0d0f8e-0d49-48b1-92ba-6e47188c824f.png)
