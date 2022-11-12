@@ -26,4 +26,5 @@ plt.show()
 ![Screen Shot 2022-11-12 at 14 23 39](https://user-images.githubusercontent.com/111761417/201458752-4ad8f8f8-72dc-4ba0-88df-1ed080a984cc.png)
 
 # CIRCUIT
+![image](https://user-images.githubusercontent.com/111761417/201461659-447ae923-a032-4820-982f-f461e967145b.png)
 
