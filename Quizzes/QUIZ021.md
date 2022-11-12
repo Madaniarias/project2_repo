@@ -26,4 +26,6 @@ print(table)
 ```
 ## TEST
 ![Screen Shot 2022-11-11 at 1 13 11](https://user-images.githubusercontent.com/111761417/201148330-d1ea7f72-6d3f-4ac7-9200-a3923906b6b2.png)
+
 ## TRUTH TABLE AND CIRCUIT
+![image](https://user-images.githubusercontent.com/111761417/201460880-88bf03f6-50dc-4c83-a293-49610bd40bb4.png)
