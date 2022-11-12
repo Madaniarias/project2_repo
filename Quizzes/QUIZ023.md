@@ -32,3 +32,5 @@ plt.show()
 
 # TRUTH TABLE
 
+![image](https://user-images.githubusercontent.com/111761417/201461413-edbd19d1-7ee9-4762-a4db-3ad48cdf3b2b.png)
+
