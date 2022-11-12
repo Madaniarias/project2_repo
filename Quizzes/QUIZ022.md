@@ -1,4 +1,4 @@
-# QUIZ 021
+# QUIZ 022
 
 ## CODE
 ```.py
