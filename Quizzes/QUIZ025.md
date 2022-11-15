@@ -24,6 +24,6 @@ plt.ylabel("f(x)=|x|")
 plt.show()
 ```
 ## TEST
-
+![Screen Shot 2022-11-15 at 9 40 17](https://user-images.githubusercontent.com/111761417/201798065-c167c342-01af-463e-a8a3-b23b416aa0ff.png)
 
 ## CONVERT TO DECIMAL
