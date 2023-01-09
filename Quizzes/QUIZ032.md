@@ -61,5 +61,6 @@ plt.show()
 
 # TEST
 
-![Screen Shot 2023-01-10 at 8 44 24](https://user-images.githubusercontent.com/111761417/211430306-36701a77-c475-4fc7-bb4a-4781a933aba7.png)
+![Screen Shot 2023-01-10 at 8 45 59](https://user-images.githubusercontent.com/111761417/211430465-f733d23f-053b-4e49-87f0-500c7a2f8846.png)
+
 
