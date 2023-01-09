@@ -2,7 +2,7 @@
 
 # CODE
 
-```
+.```
 #26. Create a program that ① show the graph and ②create a linear (H_model = m*h+b) for the data below:
 #h = [57.0, 56.0, 57.0, 56.0, 55.0, 55.0, 54.0, 54.0, 54.0, 53.0, 53.0, 54.0, 53.0, 53.0, 52.0, 52.0, 51.0, 51.0, 51.0, 50.0, 50.0, 49.0, 50.0, 49.0, 49.0, 48.0, 49.0, 49.0, 48.0, 48.0, 48.0, 49.0]  
 #Where h is relative humidity (%)
